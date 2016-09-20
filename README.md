@@ -1,4 +1,4 @@
-# About
+# Contents
 
 In this Branch, I'll write down my notes on ES6.
 
