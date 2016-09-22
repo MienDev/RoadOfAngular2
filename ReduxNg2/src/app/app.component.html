@@ -1,0 +1,8 @@
+<button id="updateBtn" (click)="click$.next()">Update</button>
+
+<h1>
+  {{clock | async | date: 'y-MM-dd:mm:ss'}}
+</h1>
+
+<hr>
+{{counter | async}}
